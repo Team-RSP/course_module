@@ -1,4 +1,4 @@
-Programming Fundamentals
+# Programming Fundamentals
 
     • Day 1
         ◦ What is programming?
