@@ -1,5 +1,10 @@
 # Programming Fundamentals
 
+- ## Day 0
+
+  - Introduction with Instructors
+  - Students question answer.
+
 - ## Day 1
 
   - What is programming?
